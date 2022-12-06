@@ -13,7 +13,7 @@ In this unit, coders will work in groups to build a project using HTML, CSS, Rea
 ## Section 1: Intro to React
 
 ### Project Planning
-
+- [ ] Learn React
 - [ ] Open up the Project Planning Document
 - [ ] Look over the "Inspiration and Ideas" section
 - [ ] Complete the "Let's Brainstorm" section.
